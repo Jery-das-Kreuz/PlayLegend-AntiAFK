@@ -1,0 +1,16 @@
+JVM:         C:\Program Files\Java\jdk-17.0.2\bin\java.exe
+JVM Args:    
+Run Args:    "--task", "MERGE_MAPPING", "--left", "config/joined.tsrg", "--right", "C:\Users\rohlf\Downloads\MCP-Reborn-1.20.1\MCP-Reborn-1.20\projects\mcp\build\mcp\downloadClientMappings\client_mappings.txt", "--right-names", "right,left", "--classes", "--output", "C:\Users\rohlf\Downloads\MCP-Reborn-1.20.1\MCP-Reborn-1.20\projects\mcp\build\mcp\mergeMappings\output.jar"
+Classpath:   C:\Users\rohlf\.gradle\caches\forge_gradle\maven_downloader\net\minecraftforge\installertools\1.2.0\installertools-1.2.0-fatjar.jar
+Working Dir: C:\Users\rohlf\Downloads\MCP-Reborn-1.20.1\MCP-Reborn-1.20\projects\mcp\build\mcp\mergeMappings
+Main Class:  net.minecraftforge.installertools.ConsoleTool
+Task: MERGE_MAPPING
+Left:    config\joined.tsrg
+         null
+Right:   C:\Users\rohlf\Downloads\MCP-Reborn-1.20.1\MCP-Reborn-1.20\projects\mcp\build\mcp\downloadClientMappings\client_mappings.txt
+         right,left
+Classes: true
+Fields:  false
+Methods: false
+Params:  false
+Output:  C:\Users\rohlf\Downloads\MCP-Reborn-1.20.1\MCP-Reborn-1.20\projects\mcp\build\mcp\mergeMappings\output.jar
